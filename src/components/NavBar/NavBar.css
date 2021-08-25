@@ -1,0 +1,64 @@
+.navbar{
+    position: fixed;
+    top:0;
+    width:100%;
+    height:20px;
+    padding: 20px;
+    display:flex;
+    justify-content: space-between;
+   /* background-color:#111;*/
+   background-color: transparent;
+}
+.series{
+    align-self:center;
+    color: aliceblue;
+    padding-left: 7rem;
+    font-size: small;
+    font-weight: 591;
+    padding-right: 1rem;
+    cursor: pointer;
+}
+.seriesc{
+    align-self:center;
+    color: aliceblue;
+    padding-left: 7rem;
+    font-size: medium;
+    font-weight: 591;
+    padding-right: 1rem;
+    cursor: pointer;
+}
+.films{
+    align-self:center;
+    color: aliceblue;
+    padding-right: 56rem;
+    font-size: small;
+    font-weight: 591;
+    cursor: pointer;
+    
+}
+.filmsc{
+    align-self:center;
+    color: aliceblue;
+    padding-right: 1040px;
+    font-size:medium;
+    font-weight: 591;
+    cursor: pointer;
+    
+}
+
+
+
+
+
+.logo{
+    position:fixed;
+    left:20px;
+    width:80px;
+}
+
+.avatar{
+    position:fixed;
+    right:20px;
+    width: 30px;
+
+}
